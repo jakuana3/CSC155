@@ -1,30 +1,30 @@
-# CSC155Topics/Lecture 6-7 pm	Individual Assignments 7-8 pm	Team Assignments 8=9 pm	Team Presentations 9-10 pm
-Introduction
-Chapter 1, Appendix A, Appendix B 
-Software Engineering (Analysis, Design, Implementation, Validation, Maintenance) 	Class program,
-Program of your choice from Back of Chapter, Quiz	Team Charter and Team Name 	Team Progress Presentation 
+# CSC155Topics/ Class Schedule
+
+Lecture 6-7 pm	
+Individual Assignments 7-8 pm	
+Team Assignments 8=9 pm	Team 
+Presentations 9-10 pm
+
+Chapter 1, Appendix A, Appendix B, Software Engineering (Analysis, Design, Implementation, Validation, Maintenance) 	Class program, Program of your choice from Back of Chapter, Quiz, Team Charter and Team Name, Team Progress Presentation 
 
 Chapter 2 - Sequence Statements, Variables, Operators	Class program,
-Program of your choice from Back of Chapter, Quiz	Game Research -  Source Codes	Team Progress Presentation 
+Program of your choice from Back of Chapter, Quiz, Game Research -  Source Codes, Team Progress Presentation 
 
-Chapter 3 - Input and Output 	Class program,
-Program of your choice from Back of Chapter, Quiz	Game Choice, Name, Genre, Input, Variables, Process algorithms/functions, Output variables	Team Progress Presentation  
+Chapter 3 - Input and Output 	Class program, Program of your choice from Back of Chapter, Quiz,  Game Choice, Name, Genre, Input, Variables, Process algorithms/functions, Output variables, Team Progress Presentation  
 
 Chapter 4 - Selection
         a. binary (if)
         b. multi-way (switch) 	Class program,
-Program of your choice from Back of Chapter, Quiz	Pseudo code, Flowcharts, Diagrams. Storyboards, Event Diagrams	Team Progress Presentation  
+Program of your choice from Back of Chapter, Quiz, Pseudo code, Flowcharts, Diagrams. Storyboards, Event Diagrams, Team Progress Presentation  
 
 Chapter 5 - Repetition 
         a. pre-test (for, while)
         b. post-test (do) 	Class program,
-Program of your choice from Back of Chapter, Quiz	Team Projects - Code	Team Progress Presentation  
+Program of your choice from Back of Chapter, Quiz, Team Projects - Code	Team Progress Presentation  
 
-Arrays (Chapter 8)	Class program,
-Program of your choice from Back of Chapter, Quiz	Team Projects - Code	Team Progress Presentation  
-No Class 	No Class	No Class 	No Class
-Chapter 9 - Records (Structs)	Class program
-Program of your choice from Back of Chapter, Quiz	Team Projects - Code	Team Progress Presentation  
+Chapter 8, Arrays, Class program, Program of your choice from Back of Chapter, Quiz, Team Projects - Code, Team Progress Presentation  
+
+Chapter 9 - Records (Structs)	Class program, Program of your choice from Back of Chapter, Quiz, Team Projects - Code	Team Progress Presentation  
 
 Chapter 6, 7, Appendix H - Modularity
     1. Functions
@@ -32,19 +32,16 @@ Chapter 6, 7, Appendix H - Modularity
         b. recursion 
     2. Libraries
 	
-Required Virtual Class, 
-Program of your choice from Back of Chapter, Quiz	
-Required Virtual Team Discussions	Required Virtual Team Progress Presentation  
-Chapter 10 - User Classes
-	Class program,
-Program of your choice from Back of Chapter Quiz	Team Projects – Test Cases	Team Progress Presentation  
-Chapter 11 - Files and streams	Class program,
-Program of your choice from Back of Chapter, Quiz	Team Projects – Debugging, Final version	Team Progress Presentation  
-Chapter 16 Strings and templated vectors	Class program,
-Program of your choice from Back of Chapter, Quiz	Team Project Wrap-Up	Team Project Presentations
-Team Evaluation 
-Class Review and Open Lab	Class Review and Open Lab	Class Review and Open Lab	Class Review and Open Lab
-Final Exam	Final Exam	Final Exam	Final Exam
+Program of your choice from Back of Chapter, Quiz, Required Virtual Team Discussions, Required Virtual Team Progress Presentation  
+
+Chapter 10 - User Classes, Class program, Program of your choice from Back of Chapter Quiz, Team Projects – Test Cases	Team Progress Presentation  
+
+Chapter 11 - Files and streams	Class program, Program of your choice from Back of Chapter, Quiz, Team Projects – Debugging, Final version, Team Progress Presentation  
+
+Chapter 16 Strings and templated vectors, Class program, Program of your choice from Back of Chapter, Quiz, Team Project Wrap-Up	Team Project Presentations, Team Evaluation 
+
+Class Review and Open Lab
+Final Exam
 
 Assignments (500 points total for the class)
 •	10 lab assignment consisting of two programs for each class and lab (10 points each for a total of 100 – class demonstration of working program for credit)
